@@ -1,1 +1,1 @@
-# Mental-Ailment-detector_
+# Mental-Ailment-Detector
